@@ -1,0 +1,16 @@
+print ("@@   @  @@@@  @   @  @@@@  @@@@  @") 
+print ("@ @  @  @  @  @   @  @     @  @  @")
+print ("@  @ @  @@@@  @   @  @@@@  @@@@  @")    
+print ("@   @@  @  @  @@@@@  @     @  @  @@@")
+
+print("---- ELKOM 3 -----")
+def mengalikan(x):
+    hitungan=1
+    for a in list:
+        hitungan*=a
+    print(hitungan)
+    return hitungan
+
+list=[2,3,5,4]
+print(list)
+mengalikan(list)
