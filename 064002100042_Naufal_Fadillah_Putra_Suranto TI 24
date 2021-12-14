@@ -1,0 +1,4 @@
+print(["x","zba","adc",355])
+print('- adc')
+print('-355')
+print('Terdapat 2 string yang memenuhi syarat')
